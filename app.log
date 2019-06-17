@@ -1,0 +1,32 @@
+17.06.2019, 12:56:18 : ******************** Start ********************
+
+17.06.2019, 12:56:18 : ********** connectXL(test_1.xlsx, Sheet1) **********
+
+17.06.2019, 12:56:18 : Connect to file test_1.xlsx
+
+17.06.2019, 12:56:18 : Open sheet Sheet1 from file test_1.xlsx
+
+17.06.2019, 12:56:18 : ********** modifyXL(<Worksheet "Sheet1">, ['A1', 'B2', 'C3', 'D4', 'E5'], ['A1_value', 'B2_value', 'C3_value', 'D4_value', 'E5_value']) **********
+
+17.06.2019, 12:56:18 : start modifying value of A1 to A1_value
+
+17.06.2019, 12:56:18 : value of A1 was modified to A1_value
+
+17.06.2019, 12:56:18 : start modifying value of B2 to B2_value
+
+17.06.2019, 12:56:18 : value of B2 was modified to B2_value
+
+17.06.2019, 12:56:18 : start modifying value of C3 to C3_value
+
+17.06.2019, 12:56:18 : value of C3 was modified to C3_value
+
+17.06.2019, 12:56:18 : start modifying value of D4 to D4_value
+
+17.06.2019, 12:56:18 : value of D4 was modified to D4_value
+
+17.06.2019, 12:56:18 : start modifying value of E5 to E5_value
+
+17.06.2019, 12:56:18 : value of E5 was modified to E5_value
+
+17.06.2019, 12:56:18 : ******************** End ********************
+
